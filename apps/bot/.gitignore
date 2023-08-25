@@ -15,3 +15,4 @@ yarn*.log
 # Crowdin
 i18n
 crowdin.yml
+.DS_Store
