@@ -1,0 +1,21 @@
+{
+  "accessControl": "Control de Acceso",
+  "welcomeMessage": "Mensaje de Bienvenida",
+  "welcomeChannel": "Canal de Bienvenida",
+  "adminRoles": "Roles de Administrador",
+  "adminRolesDesc": "Roles que pueden ejecutar comandos del bot",
+  "save": "Guardar",
+  "cancel": "Cancelar",
+  "changesDetected": "¡Se detectaron cambios! Por favor, guarda o cancela.",
+  "noChannels": "No se encontraron canales",
+  "noChannelSelected": "Ningún canal seleccionado",
+  "example": {
+    "title": "Ejemplo",
+    "member": {
+      "mention": "Mención",
+      "level": "Nivel",
+      "username": "Nombre de usuario"
+    }
+  },
+  "noPluginSelected": "Ningún plugin seleccionado"
+}

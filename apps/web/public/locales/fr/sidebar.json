@@ -1,0 +1,10 @@
+{
+  "items": {
+    "guilds": "Guildes"
+  },
+  "plugins": {
+    "utilities": "Utilitaires",
+    "leveling": "Niveaux",
+    "moderation": "Moderation"
+  }
+}
