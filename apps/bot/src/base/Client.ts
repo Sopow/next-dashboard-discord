@@ -1,5 +1,4 @@
 import { Client, Collection, ClientOptions, Guild } from "discord.js";
-import emojis from "../emojis.json";
 import log from "../utils/logger";
 import database from "../database";
 import { REST } from "@discordjs/rest";

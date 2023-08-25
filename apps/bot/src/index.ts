@@ -7,7 +7,7 @@ import fs from "fs";
 import path from "path";
 
 // Import types
-import type { SlashCommand, Event } from "../../../@types/index";
+import type { Event } from "../../../@types/index";
 
 config();
 
